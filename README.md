@@ -23,6 +23,7 @@
 
 | Project | Stars* | Description |
 | --- | :---: | --- |
+| **llm-box** | N/A | Terminal-first workflow automation engine with MCP server mode. Generate and execute YAML workflows from plain English descriptions. Features 20+ built-in nodes, 15+ LLM providers, and supports stdio and HTTP MCP modes. |
 | **n8n Self‑Hosted AI Starter Kit** | ~3.1k | Template to spin up a local AI environment integrated with n8n for building and hosting AI workflows. |
 | **Zapier AI Agents** | N/A | Build autonomous AI steps & agents directly inside Zapier’s no‑code workflows; connect ChatGPT, Claude, and more. |
 
