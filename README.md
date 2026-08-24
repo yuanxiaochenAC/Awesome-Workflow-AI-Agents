@@ -24,6 +24,7 @@
 | Project | Stars* | Description |
 | --- | :---: | --- |
 | **n8n Self‑Hosted AI Starter Kit** | ~3.1k | Template to spin up a local AI environment integrated with n8n for building and hosting AI workflows. |
+| [**Orkas**](https://github.com/Orkas-AI/Orkas) | ~1.4k | Local-first desktop AI workforce where a Commander coordinates specialist agents through one chat. |
 | **Zapier AI Agents** | N/A | Build autonomous AI steps & agents directly inside Zapier’s no‑code workflows; connect ChatGPT, Claude, and more. |
 
 ## 🧑‍💻 Agent Frameworks
