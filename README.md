@@ -49,6 +49,7 @@
 
 | Project | Stars* | Description |
 | --- | :---: | --- |
+| **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** | 0 (checked 2026-10-26) | Local stdio MCP payment runtime for x402 offer inspection, bounded preparation and receipt recovery; Apple Silicon macOS, Node 24. |
 | **Robocorp AI Actions** | N/A | Python‑based RPA platform with libraries for building generative‑AI powered assistants & agents. |
 
 ## 🧪 Monitoring & Evaluation
